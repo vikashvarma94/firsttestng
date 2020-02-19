@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test  name="Testsequence">
+    <classes>
+     <class name="ihubstorestc.tc_02_signinneg"/>
+    
+      <class name="ihubstorestc.tc_01_signin"/>
+   
+    </classes>
+  </test> <!-- Testsequence -->
+</suite> <!-- Suite -->
